@@ -1,0 +1,5 @@
+compile
+run
+ls -l
+help
+exit
